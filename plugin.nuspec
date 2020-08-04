@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+  <metadata>
+    <id>com.castsoftware.automaticlinksvalidator</id>
+    <version>1.0.3-funcrel</version>
+    <title>Automatic links validator</title>
+    <authors>CAST Product</authors>
+    <owners>CAST Product</owners>
+    <licenseUrl>http://SUPPORT-HUAWEI:8085/api/package/license/product</licenseUrl>
+    <projectUrl>https://doc.castsoftware.com/display/TECHNOS/Automatic+Links+Validator+-+1.0</projectUrl>
+    <iconUrl>http://SUPPORT-HUAWEI:8085/api/static/assets/com.castsoftware.dlm.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>This extension provides automatic validation of dynamic links.</description>
+    <releaseNotes>https://doc.castsoftware.com/display/TECHNOS/Automatic+Links+Validator+-+1.0+-+Release+Notes</releaseNotes>
+    <dependencies>
+      <dependency id="CAIP" version="8.0.0" />
+    </dependencies>
+  </metadata>
+</package>
